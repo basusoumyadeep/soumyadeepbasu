@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>Soumyadeep's Resume</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css"
+      media="all" />
+    <link rel="stylesheet" type="text/css" href="resume.css" media="all" />
+  </head>
+  <body>
+    <div id="doc2" class="yui-t7">
+      <div id="inner">
+        <div id="hd">
+          <div class="yui-gc">
+            <div class="yui-u first">
+              <h1>Soumyadeep Basu</h1>
+              <h2>M.S. Computer Science</h2>
+            </div>
+            <div class="yui-u">
+              <div class="contact-info">
+                <h3><a id="pdf" href="mailto:sb2356@njit.edu">Request PDF</a></h3>
+                <h3> </h3>
+                <h3><br />
+                </h3>
+                <h3><br />
+                </h3>
+                <h3><br />
+                </h3>
+                <h3>Phone: +1 (973) - 282-6661<br />
+                                 <a href="mailto:sb2356@njit.edu"> Email</a><br />
+                                 <a href="https://github.com/sb2356/MS-Computer-Science--Projects-and-Assignments">Github</a><br />
+                                 <a href="https://www.linkedin.com/in/sb2356/">LinkedIn</a></h3>
+                <h3>               <a href="https://harp.njit.edu/%7Esb2356">Website</a></h3>
+              </div>
+              <!--// .contact-info --> </div>
+          </div>
+          <!--// .yui-gc --> </div>
+        <!--// hd -->
+        <div id="bd">
+          <div id="yui-main">
+            <div class="yui-b">
+              <div class="yui-gf">
+                <div class="yui-u first">
+                  <h2>Summary</h2>
+                </div>
+                <div class="yui-u">
+                  <p class="enlarge">Three years’ experience in Technology
+                    domain as a Technical consultant. Primary aim is to succeed
+                    in an environment of<br />
+                    growth and excellence, seek challenging assignments and
+                    decisive responsibilities. Additionally, to develop
+                    all-around<br />
+                    capabilities which would help to achieve organizational as
+                    well as personal milestones.</p>
+                </div>
+              </div>
+              <!--// .yui-gf -->
+              <div class="yui-gf">
+                <div class="yui-u first">
+                  <h2>Skills, Trainings &amp; Certifications</h2>
+                </div>
+                <div class="yui-u">
+                  <div class="talent">
+                    <h2>Skills</h2>
+                    <p style="width: 220px;">✓ Programming: C, C++, Java,
+                      Python, SQL, C#, JSON, XML, JavaScript, CSS, .NET, HTML,
+                      Visual Basic,<br />
+                      Shell Scripting, Kernel &amp; Multi-threaded programming,
+                      Object Oriented Programming, Data Structures.<br />
+                      ✓ Tools: Word, Excel, Access, PowerPoint, Tableau, Weka,
+                      Azure.<br />
+                      ✓ Database: Oracle, Microsoft SQL Server, MS Access,
+                      MongoDb, NoSQL, MySQL.<br />
+                      ✓ Operating Systems: Windows, Unix/Linux, Mac OS</p>
+                  </div>
+                  <div class="talent">
+                    <h2>      Trainings</h2>
+                    <p style="margin-left: 32px; width: 192px;">Data Analytics,
+                      Software Security, Process Improvement, Quality<br />
+                      Management, Scrum Development, Product Design &amp;
+                      Software Development<br />
+                      Life Cycle, Business Community Management, Rigor in
+                      Operations, Software<br />
+                      Engineering Practices, Data Modeling, Service Oriented
+                      Architecture, Dev-Ops,<br />
+                      Organizational &amp; Interpersonal Skills, Artificial
+                      Intelligence &amp; Problem Solving.</p>
+                  </div>
+                  <div class="talent" style="margin-left: 48px; width: 179px;">
+                    <h2>Certifications</h2>
+                    <p>» 2017/05 Agile Methodology</p>
+                    <p><br />
+                    </p>
+                    <p>» 2017/03 Lean Six Sigma Green Belt Certification
+                      (Process Improvement Methodology). Project : Reversal
+                      Monitoring<br />
+                      Simplification (Account Payable Module).</p>
+                    <p><br />
+                    </p>
+                    <p>» 2016/09 Oracle Applications Certification .</p>
+                  </div>
+                </div>
+              </div>
+              <!--// .yui-gf-->
+              <div class="yui-gf">
+                <div class="yui-u first">
+                  <h2>Experience</h2>
+                </div>
+                <!--// .yui-u -->
+                <div class="yui-u">
+                  <div class="job">
+                    <h2>Extech Ideas</h2>
+                    <h3>Applications Engineer Trainee</h3>
+                    <h4 style="top: 4px; left: 383px;">July 01,  2019 - December
+                      22, 2019</h4>
+                    <p style="width: 622px;">» Write and optimize in-application
+                      SQL statements.<br />
+                      » Develop SQL Queries, Views and Stored Procedures.<br />
+                      » Prepare documentation and specifications as required.<br />
+                      » Writing joins, sub-queries, dynamic SQL and different
+                      looping methods.<br />
+                      » Participate in requirements analysis and convert them
+                      into technical specifications for software platforms.<br />
+                      » Analyzing business requirements and developing
+                      solutions. Being involved in analysis, design, development
+                      and implementation of applications.<br />
+                      » Coordinating with application team during configuration
+                      and data modelling. Providing technical documentation
+                      including System Design Specification in accordance with
+                      company policies and procedures.<br />
+                      » Providing technical support, including troubleshooting
+                      and training users in installation, operations, control
+                      and utilization.</p>
+                  </div>
+                  <div class="job">
+                    <h2>Tata Consultancy Services</h2>
+                    <h3>Assistant Systems Engineer</h3>
+                    <h4>July 04, 2016 - May 28, 2018</h4>
+                    <p style="width: 592px;">» Offshore lead and Main Point of
+                      Contact of the Advanced Supply Chain Planning module team
+                      for any escalations that took place during the onsite
+                      coordinators’ absence.<br />
+                      » Had daily interactions with clients and assisted them to
+                      resolve issues related to Advanced Supply Chain Planning
+                      and Purchase Order modules in GE Oil &amp; Gas and GE
+                      Corporate Businesses (General Electric, USA).<br />
+                      » Innovative ideas and brought forth initiatives to enable
+                      better system performance and handling. Provided the idea
+                      of simplification of invoice validation process by
+                      automating the movement of iflow documents to cancelled
+                      queue by implementing the trigger.<br />
+                      » Developed and implemented new functionalities and
+                      improvements for the users as per business requirement
+                      related to Advanced Supply Chain Planning module. Improved
+                      the automation capability of the project by creating
+                      schedule checks for the jobs that ran every day.<br />
+                      » Worked on an automated mail alert system that would send
+                      alerts as soon as a job failed or send the completion
+                      status to business which reduced the manual effort of
+                      monitoring the programs and inputting the data in an Excel
+                      sheet and sending emails. This improvement saved a lot of
+                      time and effort for the business.<br />
+                      » Debugged the application and handled critical delivery
+                      issues so that the impact of business can be minimal.<br />
+                      » Analyzed change requests/enhancements and provided Root
+                      Cause Analysis (RCA) for issues faced by the user.<br />
+                      » Set up the system to enable new functionalities,
+                      debugging and troubleshooting issues to ensure Production
+                      environment was always operational.<br />
+                      » Managed smooth implementation and testing of
+                      applications, ensuring deadlines are met properly.<br />
+                      » Ideate process and performance improvement techniques
+                      resulting in monetary savings for client. The Six Sigma
+                      Green Belt project resulted in 12,000 USD per year savings
+                      for the client.</p>
+                  </div>
+                  <div class="job">
+                    <h2>New Jersey Institute of Technology</h2>
+                    <h3>Research Assistant</h3>
+                    <h4>September 2018 - December 2019</h4>
+                    <p>Data Collection using data files for transportation
+                      research analysis and to compare results for any variation
+                      in them.<br />
+                      Used tools like Excel, to manipulate the data and other
+                      softwares like Windows and Linux to compare the results.</p>
+                  </div>
+                  <div class="job">
+                    <h2>New Jersey Institute of Technology</h2>
+                    <h3>Office Assistant</h3>
+                    <h4>December 2018 - December 2019</h4>
+                    <p>Promote and sustain organic leadership by maintaining
+                      positive peer-leader relationships and supporting the
+                      goals of the residents and guests. Managing the student
+                      database. Organize workshops based on a theme of interest.
+                      First Point of Contact for the visitors.</p>
+                  </div>
+                  <div class="job">
+                    <h2>Indian Railways</h2>
+                    <h3>Engineering Trainee</h3>
+                    <h4>November 2014 - January 2015</h4>
+                    <p>Provided reports based on detailed study of the Signaling
+                      and Communication process that takes place in the Indian
+                      Railways.</p>
+                  </div>
+                  <div class="job last">
+                    <h2>Indian Statistical Institute</h2>
+                    <h3>Undergraduate Trainee</h3>
+                    <h4>June 2014 - July 2014</h4>
+                    <p>Implementation of sorting techniques like Bubble Sort,
+                      Insertion Sort, Selection Sort, Quick Sort, Merge Sort and
+                      Heap Sort using Data Structures in C. Compared the space
+                      and time complexity and improved the performance of the
+                      code based on the complexities.</p>
+                  </div>
+                </div>
+                <!--// .yui-u --> </div>
+              <!--// .yui-gf -->
+              <div class="yui-gf last">
+                <div class="yui-u first">
+                  <h2>Education</h2>
+                </div>
+                <div class="yui-u">
+                  <h2>New Jersey Institute of Technology - Newark, New Jersey,
+                    USA</h2>
+                  <h3>Computer Science — <strong>3.563/4 GPA - Graduating
+                      December 2019</strong></h3>
+                  <p style="width: 609px;"><br />
+                    Projects:<br />
+                    » Database: Payment network like Zelle. Steps included:
+                    Designing of ER, EER and Relational Diagrams. Creating the
+                    Database to store the data related to payment and customers.
+                    Creating a User-friendly Interface for the users to operate
+                    the payment network.<br />
+                    » Data Mining: Implementation of Apriori Algorithm using
+                    C++. Implemented Classification Algorithms: Random Forests
+                    and Decision Trees using Data Mining Tool Weka and provided
+                    results and reports based on the calculations for both.
+                    Implementation of HITS algorithm for connectivity analysis.<br />
+                    » Internet Protocols: Created a text mode DNS server, which
+                    listens on a user-specified socket for DNS lookup requests
+                    and return (to the client) a list of IP addresses with a
+                    preferred address. It was then extended to become a full web
+                    proxy that, reads a request from a browser, forwards that
+                    request to a web server, reads the reply from the web
+                    server, and forwards the reply to the browser. It also had a
+                    part to block web requests to certain black listed websites.
+                    Also, implemented a simple UDP packet radio transmitter.<br />
+                    » Operating Systems: Enabling KVM virtualization for
+                    Raspberry Pi and evaluating performance based on OS
+                    installed thereafter.<br />
+                    » Data Structure: Implementation of Huffman encoding and
+                    decoding to compress and decompress arbitrary files such as
+                    a .pdf or .jpg or .mp4 etc. Implementation of Kleinberg’s
+                    HITS Algorithm and Google’s PageRank algorithm.<br />
+                    » Machine Learning: Implementation of the Naive Bayes
+                    classifier, gradient descent for minimizing the least
+                    squares loss. Programs to optimize the SVM hinge loss
+                    descent algorithm, logistic discrimination gradient descent
+                    algorithm, program that determines the column with the best
+                    split for the CART decision tree algorithm and to perform
+                    bagging on the decision a stump and a program to output a
+                    k-means clustering.</p>
+                  <p><br />
+                  </p>
+                  <h2>Institute of Engineering and Management - Kolkata, West
+                    Bengal India</h2>
+                  <h3>Electronics and Communication Engineering — <strong>8.08/10
+                      GPA - Graduated June 2016<br />
+                    </strong></h3>
+                  <!--// .yui-gf --> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="ft">
+          <p> © Soumyadeep Basu 2019</p>
+        </div>
+        <!--// footer --> </div>
+      <!-- // inner --> </div>
+    <!--// doc -->
+  </body>
+</html>

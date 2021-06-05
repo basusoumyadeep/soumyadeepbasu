@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title>SOUMYADEEP'S PUBLICATIONS</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link href="http://fonts.googleapis.com/css?family=Raleway:400,200,500,600,700,800,300"
+      rel="stylesheet" />
+    <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+    <!--[if IE 6]>
+<link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="menu-wrapper">
+        <div id="menu" class="container">
+          <ul>
+            <li class="current_page_item"><a href="#">Back to Homepage</a></li>
+            <li><br />
+            </li>
+          </ul>
+        </div>
+        <!-- end #menu -->
+        <div id="header-wrapper">
+          <div id="header" class="container">
+            <div id="logo">
+              <h1><a href="#">my Publications<br />
+                </a></h1>
+              <p><br />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="page" class="container">
+        <div id="content">
+          <div class="title">
+            <h2>Detecting Political Bias Trolls in Twitter Data</h2>
+            <span class="byline">Research Paper </span> </div>
+          Ever since Russian trolls have been brought to light, their
+          interference in the 2016 US Presidential elections has been monitored
+          and studied. These Russian trolls employ fake accounts registered on
+          several major social media sites to influence public opinion in other
+          countries. Our work involves discovering patterns in these tweets and
+          classifying them by training different machine learning models such as
+          Support Vector Machines, Word2vec, Google BERT, and neural network
+          models, and then applying them to several large Twitter datasets to
+          compare the effectiveness of the different models. Two classification
+          tasks are utilized for this purpose. The first one is used to classify
+          any given tweet as either troll or non-troll tweet. The second model
+          classifies specific tweets as coming from left trolls or right trolls,
+          based on apparent extreme political orientations. On the given data
+          sets, Google BERT provides the best results, with an accuracy of 89.4%
+          for the left/right troll detector and 99% for the troll/non-troll
+          detector. Temporal, geographic, and sentiment analyses were also
+          performed and results were visualized.</div>
+        <div id="sidebar">
+          <div class="box2">
+            <div class="title">
+              <h2><br />
+                <br />
+                <br />
+                LInks</h2>
+            </div>
+            <ul class="style2">
+              <li><br />
+              </li>
+              <li><a href="#">Detecting Political Bias Trolls in Twitter Data.
+                  (WEBIST 2019).<br />
+                </a></li>
+              <li><br />
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer-wrapper">
+      <div id="footer" class="container"><a href="#" class="button">          
+                                                                             
+                                                                             
+                 Load More                                                      
+                                                                             
+                                   </a> </div>
+    </div>
+    <div id="copyright" class="container">
+      <p>© soumyadeep basu 2019</p>
+    </div>
+  </body>
+</html>
